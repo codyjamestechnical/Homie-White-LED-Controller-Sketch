@@ -8,7 +8,7 @@ ArduinJSON Library
 
 ## What is this for
 
-It is for use with White Only LEDs, allowing you to send standard MQTT, or MQTT JSON commands. It works with Home Assistant natively, and will work with HomeKit using [MQTTTHING](https://github.com/arachnetech/homebridge-mqttthing#readme) for HomeBridge. It supports transition( in seconds) when sending commands in JSON
+It is for use with White Only LEDs, allowing you to send standard MQTT, or MQTT JSON commands. It works with Home Assistant natively, and will work with HomeKit using [MQTTTHING](https://github.com/arachnetech/homebridge-mqttthing#readme) for  [HomeBridge](https://homebridge.io). It supports transition( in seconds) when sending commands in JSON
 
 ## How To Use
 
